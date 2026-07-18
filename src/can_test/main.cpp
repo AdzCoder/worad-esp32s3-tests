@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @brief ESP32-S3 CAN Bus Communication Test using TWAI driver
- * @author Adil
+ * @author Adil Wahab Bhatti
  * @date 2025
  *
  * This program demonstrates basic CAN bus communication on an ESP32-S3

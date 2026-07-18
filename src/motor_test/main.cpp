@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @brief CubeMars AK45-36 Motor Test
- * @author Adil
+ * @author Adil Wahab Bhatti
  * @date 2026
  *
  * Basic test to verify motor connection and movement commands over CAN bus.
